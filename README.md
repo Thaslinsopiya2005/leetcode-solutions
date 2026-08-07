@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
@@ -110,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
