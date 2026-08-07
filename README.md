@@ -18,6 +18,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
