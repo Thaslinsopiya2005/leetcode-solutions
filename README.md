@@ -11,6 +11,7 @@
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +80,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+## Tree
+|  |
+| ------- |
+| [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 <!---LeetCode Topics End-->
