@@ -15,6 +15,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0050-powx-n](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0050-powx-n) |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +118,13 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
