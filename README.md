@@ -13,6 +13,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,20 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
