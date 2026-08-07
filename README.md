@@ -12,11 +12,13 @@
 | [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
