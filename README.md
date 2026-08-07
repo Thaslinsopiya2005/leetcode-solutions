@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,16 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
