@@ -17,12 +17,14 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0517-super-washing-machines](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0517-super-washing-machines) |
+| [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 ## String
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,11 +112,13 @@
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 ## Binary Search
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0710-random-pick-with-blacklist](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 ## Stack
 |  |
 | ------- |
