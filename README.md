@@ -86,6 +86,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
+| [0552-student-attendance-record-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
