@@ -38,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0065-valid-number](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0065-valid-number) |
 | [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
+| [0520-detect-capital](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0520-detect-capital) |
 ## Matrix
 |  |
 | ------- |
