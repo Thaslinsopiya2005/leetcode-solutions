@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
