@@ -14,6 +14,7 @@
 | [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0050-powx-n) |
 | [0384-shuffle-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
