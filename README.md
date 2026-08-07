@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
