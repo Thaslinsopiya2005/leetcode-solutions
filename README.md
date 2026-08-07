@@ -16,6 +16,7 @@
 | [0456-132-pattern](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0517-super-washing-machines](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0517-super-washing-machines) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0517-super-washing-machines](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0517-super-washing-machines) |
 ## Recursion
 |  |
 | ------- |
