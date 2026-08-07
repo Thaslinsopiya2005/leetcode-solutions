@@ -36,6 +36,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0065-valid-number](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0065-valid-number) |
+| [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Depth-First Search
+|  |
+| ------- |
+| [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
 <!---LeetCode Topics End-->
