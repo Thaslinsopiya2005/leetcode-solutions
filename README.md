@@ -109,6 +109,7 @@
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0427-construct-quad-tree](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Sorting
 |  |
@@ -147,9 +148,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0514-freedom-trail](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0514-freedom-trail) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Thaslinsopiya2005/leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
